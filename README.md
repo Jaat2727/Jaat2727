@@ -3,6 +3,7 @@
 # Hi, I'm Nishu Dahiya (ND_Dahiya) 👋
 
 ### 🎓 BS Data Science & BS Chemistry | IIT Madras
+
 **Class Representative (Chemistry Dept.)**
 
 ---
@@ -19,40 +20,45 @@
 ---
 
 ### 👨‍💻 About Me
-I am a dual-degree student at IIT Madras. My journey started with rapid prototyping of web applications, focusing on product logic and flow. I am now transitioning into rigorous **Systems Engineering**.
 
-- 🔭 **Current Focus:** Deep-diving into **C++** and **Data Structures (DSA)** to master the fundamentals.
-- 🌱 **Learning:** Memory management, Linux basics, and algorithmic problem solving.
-- ⚡ **Experience:** Prototyped functional full-stack tools (Python/FastAPI) to solve real-world problems.
+I am a dual-degree student at IIT Madras. My strength lies in **System Logic** and **Product Design**—I know _what_ to build and _how_ data should flow. I am now mastering low-level coding to bridge the gap between design and implementation.
+
+- 🔭 **Current Hard Study:** Building a rigorous foundation in **C++** and **Data Structures (DSA)**.
+- 💡 **Prototyping Skills:** I understand the logic of **REST APIs** and **Databases** (SQL) and use them to prototype full-stack apps.
+- ⚡ **Goal:** To transition from "making things work" to "engineering them efficiently."
 
 ### 🛠️ Tech Stack
-**Learning & Core Fundamentals**
+
+**My Primary Focus (Learning Deeply)**
 <br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Data_Structures-555555?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux_Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-**Prototyping & Previous Tools**
+**Familiar With (Used for Prototyping)**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_Logic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI_Architecture-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL_Concepts-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaat2727&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaat2727&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaat2727&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaat2727&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ---
 
-### 🚀 Projects
-*Apps I designed and prototyped to solve specific user problems.*
+### 🚀 Prototyped Projects
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Chatter (Local Messenger)](https://github.com/Jaat2727/Local-LAN-Messenger)** | `FastAPI` `WebSockets` | LAN messaging app designed for secure local file sharing. |
-| **[Billing SaaS](https://github.com/Jaat2727/Billing-SAAS-IMPROVEMENTS)** | `Python` `Tkinter` | Desktop inventory management system for small businesses. |
-| **[Event Token System](https://github.com/Jaat2727/Event-token-system)** | `HTML` `JS` | Utility for managing hostel event administration. |
+_Apps where I designed the logic and features._
+
+| Project                                                                          | Stack                  | Description                                          |
+| :------------------------------------------------------------------------------- | :--------------------- | :--------------------------------------------------- |
+| **[Chatter (Local Messenger)](https://github.com/Jaat2727/Local-LAN-Messenger)** | `FastAPI` `WebSockets` | Designed a LAN messaging system with file sharing.   |
+| **[Billing SaaS](https://github.com/Jaat2727/Billing-SAAS-IMPROVEMENTS)**        | `Python` `Tkinter`     | Logic and flow design for a business inventory tool. |
+| **[Event Token System](https://github.com/Jaat2727/Event-token-system)**         | `HTML` `JS`            | Event management utility for hostel administration.  |
